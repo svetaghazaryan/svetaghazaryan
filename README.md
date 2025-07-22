@@ -64,7 +64,7 @@
 ### 📬 Contact Me
 
 - 📧 sveta.ghazaryan.est@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/[your-link](https://www.linkedin.com/in/sveta-ghazaryan-69253b234/))  
+- [LinkedIn](https://www.linkedin.com/in/[sveta-ghazaryan-69253b234])  
 
 ---
 
