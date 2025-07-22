@@ -43,6 +43,10 @@
 
 ### 💼 Work Experience
 
+**Frontend Developer** – *Esterox*  
+- Created responsive and user-friendly websites using HTML, React, JavaScript, 
+- CSS, Tailwind, SASS 
+
 **Frontend Developer** – *Nex Gen*  
 - Created responsive and user-friendly websites using HTML, CSS, JavaScript  
 - Deployed updates via FTP, organized clean and maintainable code  
@@ -63,8 +67,7 @@
 
 ### 📬 Contact Me
 
-- 📧 sveta.ghazaryan.est@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/sveta-ghazaryan-69253b234)  
+- 📧 sveta.ghazaryan.est@gmail.com 
 
 ---
 
